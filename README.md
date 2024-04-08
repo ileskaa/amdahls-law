@@ -13,7 +13,7 @@ source ~/.virtualenvs/jupyterlab/bin/activate
 
 Now you can install the required dependencies by running
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 To access the notebook via JupyterLab, run
